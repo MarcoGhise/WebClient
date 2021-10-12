@@ -1,10 +1,20 @@
 ## Resources
 
 ### /message
-{"message":"Hello World","from":null}
+ ```
+{
+   "message":"Hello World",
+   "from":null
+}
+ ```
 
 ### /from
-{"message":null,"from":"Milan"}
+ ```
+{
+   "message":null,
+   "from":"Milan"
+}
+ ```
 
 ### /clientReactiveBlock
 WebClient with <code>block()</code>
